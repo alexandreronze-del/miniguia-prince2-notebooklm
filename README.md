@@ -53,3 +53,18 @@ Liste os princípios com exemplos práticos
 Explique cada princípio com definição, exemplo e impacto no projeto
 Simule um projeto de TI usando PRINCE2 do início ao fim
 Crie perguntas difíceis sobre PRINCE2 com respostas explicadas
+
+### Prompt utilizado:
+Explique o PRINCE2 de forma simples
+
+### Problema:
+Resposta muito genérica
+
+### Ajuste:
+Explique como se eu fosse um gerente de projetos de TI
+
+### Resultado:
+Resposta mais prática e aplicável
+
+### Aprendizado:
+Contexto melhora drasticamente a qualidade da IA
