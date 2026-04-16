@@ -68,3 +68,5 @@ Resposta mais prática e aplicável
 
 ### Aprendizado:
 Contexto melhora drasticamente a qualidade da IA
+
+![Uso do NotebookLM](./images/print-notebooklm-1.png)
